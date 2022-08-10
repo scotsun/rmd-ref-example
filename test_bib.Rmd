@@ -1,0 +1,23 @@
+---
+title: "draft"
+author: "Scott Sun"
+output: pdf_document
+bibliography: res/references.bib
+csl: res/jbi.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+Hello world @R-knitr. Figure \ref{fig_str}
+
+# References {-}
+
+<div id="refs"></div>
+
+# Appendix
+
+![An example of missingness embedding. \label{fig_str}](./res/fig1.png){width="50%"}
