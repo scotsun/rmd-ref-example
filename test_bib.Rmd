@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-Hello world @R-knitr. Figure \ref{fig_str}
+Hello world @R-knitr @lakshmanan Figure \ref{fig_str}
 
 # References {-}
 
